@@ -1,0 +1,6 @@
+C:\Users\MCA\source\repos\RLE\RLE\bin\Debug\RLE.exe.config
+C:\Users\MCA\source\repos\RLE\RLE\bin\Debug\RLE.exe
+C:\Users\MCA\source\repos\RLE\RLE\bin\Debug\RLE.pdb
+C:\Users\MCA\source\repos\RLE\RLE\obj\Debug\RLE.csprojAssemblyReference.cache
+C:\Users\MCA\source\repos\RLE\RLE\obj\Debug\RLE.exe
+C:\Users\MCA\source\repos\RLE\RLE\obj\Debug\RLE.pdb
